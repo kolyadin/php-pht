@@ -1,3 +1,3 @@
 # About
 
-Php 7.2 (ZTS) with pre installed [pht extensions](http://php.net/pht)
+Php 7.2 (ZTS) with pre installed [pht extension](http://php.net/pht)
