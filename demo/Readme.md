@@ -1,6 +1,8 @@
 To see how it works, just run a container and jump inside:
 
 ```bash
+git clone https://github.com/kolyadin/php-pht.git
+cd php-pht/demo
 docker run -it --rm -v $(pwd):/var/www/ kolyadin/php-pht /bin/bash
 ```
 
