@@ -13,4 +13,4 @@ php cpuload.php &
 top -H
 ```
 
-You'll see that php script executes in parallel threads and threads number equals $threadsCount var in cpuload.php
+You'll see that php script executes in **parallel threads** and threads number equals $threadsCount var in cpuload.php
